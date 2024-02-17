@@ -9,8 +9,7 @@ my-terminal is a project that is a portfolio or business card containing informa
 
 ## demo
 
-![Screencastfrom2024-02-1003-15-27online-video-cutter com-ezgif com-video-to-gif-converter](https://github.com/RageGen/my-terminal/assets/82442165/7f96ecb2-9a63-4370-902f-423d36c6193a)
-
+![untitled](https://github.com/RageGen/my-terminal/assets/82442165/2369ff80-6ef5-4b7d-a71b-c3108d2b6ba3)
 
 
 ## authors
