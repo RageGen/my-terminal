@@ -1,0 +1,32 @@
+:root {
+  --text-color: #2fff00;
+  --bg-color: #000000;
+  --selection-color: #7dff2d;
+  --cursor-color: #2fff00;
+  --command-color: #ffffff;
+  --liner-color: #ffffff;
+  --index-color: #b1b1b1;
+  --color2-color: #2e7f00;
+  --cmd-color: #ffbf00;
+  --cmd-shadow: #9d6c00;
+  --error-color: #b89076;
+  --link-color: #006c65;
+  --link-hover-color: #008b69;
+  --link-hover-bg: #000000;
+}
+[data-theme='mdrage']{
+  --text-color: #ffffff;
+  --bg-color: #191919;
+  --selection-color: #b7a7a7;
+  --cursor-color: #ff0000;
+  --command-color: #3458d0;
+  --liner-color: #ff9c40;
+  --index-color: #ffffff;
+  --color2-color: #ffffff;
+  --cmd-color: #3458d0;
+  --cmd-shadow: none;
+  --error-color: #b31e21;
+  --link-color: #c9c600;
+  --link-hover-color: #607100;
+  --link-hover-bg: #6d6e23;
+}
